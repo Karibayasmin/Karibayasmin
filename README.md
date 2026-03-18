@@ -2,17 +2,16 @@
 
 <h1 align="center">Hi there 👋, I'm Kariba Yasmin</h1>
 <p align="center">
-🎓 Cyber Security M.Sc. Student | 📱 Android Developer | 🔐 Security-Focused Engineer  
+🎓 Cyber Security M.Sc. Student | 📱 Former Android Developer | 🔐 Security-Focused Engineer  
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-I'm currently pursuing a **Master’s in Cyber Security** at **Hochschule der Bayerischen Wirtschaft (HDBW), Germany**, with nearly **4 years of professional experience in Android application development**.  
-I’m passionate about building **secure, scalable, and user-centric mobile applications** using modern tools like **Kotlin, Jetpack Compose, and MVVM architecture**.
+Master’s student in Cyber Security at Hochschule der Bayerischen Wirtschaft(HDBW), Munich, currently in the final phase of my studies. My thesis, “Multilingual Cyberbullying Detection with AI,” focused on security-relevant text analysis and threat detection.
 
-My goal is to combine **software engineering excellence** with **secure coding practices** to create mobile solutions that are both innovative and robust.
+I bring a solid foundation in secure software development, networking, Linux, and Docker, along with a strong interest in AI-driven security solutions. I am highly motivated to begin my career in Cyber Security, AI, or Software Development and contribute to building secure and intelligent systems.
 
 ---
 
